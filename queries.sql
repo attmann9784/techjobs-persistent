@@ -7,7 +7,7 @@ skills- varchar
 
 
 ## Part 2: Test it with SQL
-SELECT name FROM employer
+SELECT name FROM techjobs.employer
 WHERE employer.location = "St. Louis City";
 
 
